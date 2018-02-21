@@ -15,7 +15,7 @@ $primero = true;	//Variable flag
 for($i=0;$i<=7;$i++){
 	if( $primero==true )
 	{
-		$max=$notas[$i];	//$notas[0]
+		$max=$notas[$i];
 		$primero=false;
 	}
 	
